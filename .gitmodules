@@ -1,0 +1,3 @@
+[submodule "vendor/Morrison-Runtime-Governance"]
+	path = vendor/Morrison-Runtime-Governance
+	url = https://github.com/davarntrades/Morrison-Runtime-Governance.git
